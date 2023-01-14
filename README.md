@@ -1,2 +1,3 @@
 # im_ken
-practice2
+hobby lists and stuff from bootcamp
+https://bap-ssbm.github.io/im_ken/
